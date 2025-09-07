@@ -20,7 +20,9 @@ Sonic REC-9388 - это один из "клавиатурных" клонов Ni
 
 ![Реплика платы картриджа](https://raw.githubusercontent.com/atsidaev/Sonic-REC-9388/master/Cards/images/sonic-rec9388-card-replica.jpg)
 
-По состоянию на начало 2023 правильность не проверена.
+Платы получены, одна собрана и подтверждена работоспособность. В корпус влазят внатяг, но и оригинальные тоже сидят крайне плотно.
+
+![Фото реплики платы картриджа](https://raw.githubusercontent.com/atsidaev/Sonic-REC-9388/master/Cards/images/sonic-rec9388-card-replica-photo.jpg)
 
 ## Клавиатура
 
