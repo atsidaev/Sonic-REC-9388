@@ -3197,12 +3197,6 @@
 		(uuid "377cb40b-5706-42e8-8356-2c2f3dc448a5")
 	)
 	(junction
-		(at 200.66 135.89)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "37c2cc8c-4165-4591-a63c-704d531febd9")
-	)
-	(junction
 		(at 63.5 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3839,6 +3833,12 @@
 		(uuid "cb3cde47-d4b8-4ae4-bd87-666ef3b204d8")
 	)
 	(junction
+		(at 200.66 135.89)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cf9182fa-3b74-43d4-a228-a9784b531304")
+	)
+	(junction
 		(at 62.865 29.845)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4223,16 +4223,6 @@
 			(type default)
 		)
 		(uuid "0c4d3136-6e61-403a-90be-77c60dbb6c5f")
-	)
-	(wire
-		(pts
-			(xy 200.66 135.89) (xy 201.93 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0ca6b1fc-f594-45c6-9f5b-f2000443bd92")
 	)
 	(wire
 		(pts
@@ -7253,6 +7243,16 @@
 			(type default)
 		)
 		(uuid "c74bffbf-080c-4889-8fc6-39afd79b4197")
+	)
+	(wire
+		(pts
+			(xy 200.66 135.89) (xy 201.93 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7518723-5eac-432a-9d12-44f18e853f55")
 	)
 	(wire
 		(pts
@@ -12930,7 +12930,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 200.66 139.7 180)
+		(at 200.66 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12938,7 +12938,7 @@
 		(dnp no)
 		(uuid "6053540d-41e3-46fe-b100-54c211169548")
 		(property "Reference" "C1"
-			(at 204.47 139.3189 0)
+			(at 196.85 140.0811 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12947,7 +12947,7 @@
 			)
 		)
 		(property "Value" "C_Polarized"
-			(at 204.47 141.8589 0)
+			(at 196.85 137.5411 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12957,7 +12957,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
-			(at 199.6948 135.89 0)
+			(at 201.6252 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
